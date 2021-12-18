@@ -1,0 +1,13 @@
+com\example\demo\DemoApplication.class
+com\example\demo\EnumStates.class
+com\example\demo\EnumStatePatternValidator.class
+com\example\demo\PersonService.class
+com\example\demo\CustomGlobalExceptionHandler.class
+com\example\demo\Person.class
+com\example\demo\PersonController.class
+com\example\demo\Address.class
+com\example\demo\EnumGender.class
+com\example\demo\PersonRepository.class
+com\example\demo\Gender.class
+com\example\demo\EnumGenderPatternValidator.class
+com\example\demo\State.class
